@@ -13,4 +13,4 @@ class Leapyr
         else
         System.out.print("not a leap year");
      }
- }
+}
